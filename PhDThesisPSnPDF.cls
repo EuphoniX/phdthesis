@@ -1178,7 +1178,8 @@ wish to left align your text}
 \newsavebox{\PHD@author}
 \begin{lrbox}{\PHD@author}
   \begin{minipage}[c]{\textwidth}
-    \centering \Large \bfseries{\@author}
+    \centering \Large \bfseries{\@author} \par
+    \centering \large {\normalfont BEng (Hons) \textit{Nott.}, MSc \textit{Lanc.}}
       \vspace{0.5em}   
   \end{minipage}
 \end{lrbox}
