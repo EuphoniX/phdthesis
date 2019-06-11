@@ -1,0 +1,7 @@
+\begin{tikzpicture} \label{plot:computeHardwareLoad:Sim}
+      \begin{axis}[legend entries={User, System, Idle}, reverse legend, legend pos=north east,xlabel=Time (s), ylabel=Utilisation (\%), xmin=0, ymax=100, width=\linewidth]
+      \addplot table [x=Time, y=User+nice, col sep=comma] {Chapter8/data/computeHardwareLoadSim.csv};
+      \addplot table [x=Time, y=System, col sep=comma] {Chapter8/data/computeHardwareLoadSim.csv};
+      \addplot table [x=Time, y=Idle, col sep=comma] {Chapter8/data/computeHardwareLoadSim.csv};
+      \end{axis}
+    \end{tikzpicture}%

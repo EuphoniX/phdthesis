@@ -1,0 +1,6 @@
+\begin{tikzpicture} \label{plot:lidarPointCounts:largeCone}
+      \begin{axis}[legend entries={Real, Simulated}, legend pos=north east,xlabel=Distance (m), ylabel=No. Points, width=\linewidth]
+      \addplot table [x index=0, y=Large cone - Real, col sep=comma] {Chapter8/data/lidarPointCounts.csv};
+      \addplot table [x index=0, y=Large cone - Sim, col sep=comma] {Chapter8/data/lidarPointCounts.csv};
+      \end{axis}
+\end{tikzpicture}%

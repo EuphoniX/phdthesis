@@ -1,0 +1,13 @@
+\begin{tikzpicture} \label{plot:simFrameRates}
+	\begin{axis}[xlabel=Frame Rate (FPS), xtick distance=25, ytick=\empty, width=\columnwidth, height=0.9in]
+	\addplot+[boxplot prepared={
+		lower whisker=12.8,
+		lower quartile=33.3,
+		median=38.5,
+		upper quartile=47.6,
+		upper whisker=62.5,
+		average=30,
+		every average/.style={mark size=4pt}
+	}] coordinates{};
+	\end{axis}
+\end{tikzpicture}

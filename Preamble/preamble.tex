@@ -44,10 +44,16 @@
 % *****************************************************************************
 % **************************** Custom Packages ********************************
 
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+%\usepackage[UKenglish]{babel}
+\usepackage{lscape}
+\usepackage{xcolor}
+
 % ************************* Algorithms and Pseudocode **************************
 
-%\usepackage{algpseudocode}
-
+\usepackage{algpseudocode}
+\usepackage{algorithm}
 
 % ********************Captions and Hyperreferencing / URL **********************
 
@@ -60,7 +66,7 @@
 
 % *************************** Graphics and figures *****************************
 
-%\usepackage{rotating}
+\usepackage{rotating}
 %\usepackage{wrapfig}
 
 % Uncomment the following two lines to force Latex to place the figure.
@@ -73,15 +79,17 @@
 % This is for people stuck with older versions of texlive
 %\usepackage{sty/caption/subcaption}
 \usepackage{subcaption}
+\usepackage{svg}
 
 % ********************************** Tables ************************************
 \usepackage{booktabs} % For professional looking tables
 \usepackage{multirow}
 
-%\usepackage{multicol}
+\usepackage{multicol}
 %\usepackage{longtable}
-%\usepackage{tabularx}
-
+\usepackage{tabularx}
+\usepackage{threeparttable}
+\usepackage{ltablex}
 
 % *********************************** SI Units *********************************
 \usepackage{siunitx} % use this package module for SI units
@@ -113,12 +121,15 @@
 
 % Add `custombib' in the document class option to use this section
 \ifuseCustomBib
-   \RequirePackage[square, sort, numbers, authoryear]{natbib} % CustomBib
+%   \RequirePackage[square, sort, numbers, authoryear]{natbib} % CustomBib
 
 % If you would like to use biblatex for your reference management, as opposed to the default `natbibpackage` pass the option `custombib` in the document class. Comment out the previous line to make sure you don't load the natbib package. Uncomment the following lines and specify the location of references.bib file
 
-%\RequirePackage[backend=biber, style=numeric-comp, citestyle=numeric, sorting=nty, natbib=true]{biblatex}
-%\addbibresource{References/references} %Location of references.bib only for biblatex, Do not omit the .bib extension from the filename.
+\RequirePackage[backend=biber, style=ieee, citestyle=numeric-comp, sorting=none, sortcites=true, block=space, indexing=false, url=false, citereset=none, natbib=true]{biblatex}
+\addbibresource{References/references.bib} %Location of references.bib only for biblatex, Do not omit the .bib extension from the filename.
+\AtEveryBibitem{%
+	\clearlist{language}%
+}
 
 \fi
 
@@ -139,8 +150,8 @@
 
 % ********************** TOC depth and numbering depth *************************
 
-\setcounter{secnumdepth}{2}
-\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
 
 
 % ******************************* Nomenclature *********************************

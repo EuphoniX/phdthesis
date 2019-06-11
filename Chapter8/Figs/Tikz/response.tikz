@@ -1,0 +1,6 @@
+\begin{tikzpicture} \label{plot:responseTimes}
+    \begin{axis}[xlabel=Time (s), ytick={1, 2}, yticklabels={Real, Sim}, width=\columnwidth, height=1.25in]
+        \addplot+ [boxplot] table [y index=1] {\responseTimesTable};
+        \addplot+ [boxplot] table [y index=2] {\responseTimesTable};
+    \end{axis}
+\end{tikzpicture}

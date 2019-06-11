@@ -1,0 +1,21 @@
+\usetikzlibrary{pgfplots.statistics}
+\pgfplotsset{compat=1.14}
+\pgfplotstabletranspose\responseTimesTable{Chapter8/data/responseTimes.dat}
+% Change colour of average marker on boxplots.
+\makeatletter
+\pgfplotsset{
+    boxplot/draw/average/.code={%
+            \color{.!0!red}
+        \draw[/pgfplots/boxplot/every average/.try]
+            \pgfextra
+            \pgftransformshift{%
+                \pgfplotsboxplotpointabbox
+                    {\pgfplotsboxplotvalue{average}}
+                    {0.5}%
+            }%
+            \pgfuseplotmark{\tikz@plot@mark}%
+            \endpgfextra
+        ;
+    },
+}
+\makeatother

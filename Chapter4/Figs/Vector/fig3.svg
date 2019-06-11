@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425.2 300.5" style="enable-background:new 0 0 425.2 300.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;stroke-width:0.9144;stroke-miterlimit:10;}
+	.st2{clip-path:url(#SVGID_2_);fill:#CEE5FF;}
+	.st3{clip-path:url(#SVGID_2_);}
+	.st4{font-family:'TeXGyreHeros-Bold';}
+	.st5{font-size:7.4134px;}
+	.st6{font-family:'Courier';}
+	.st7{font-size:5.9307px;}
+	.st8{clip-path:url(#SVGID_2_);fill:#B8D9FF;}
+	.st9{font-family:'TeXGyreHeros-BoldItalic';}
+	.st10{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g class="st0">
+	<g class="st0">
+		<g>
+			<defs>
+				<rect id="SVGID_1_" width="425.2" height="300.5"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<line class="st1" x1="101.9" y1="180.9" x2="53.4" y2="180.9"/>
+			<line class="st1" x1="101.9" y1="244.6" x2="53.4" y2="244.6"/>
+			<line class="st1" x1="101.9" y1="133.1" x2="53.4" y2="133.1"/>
+			<rect x="96.3" y="67.5" class="st2" width="108.8" height="14.8"/>
+			<rect x="96.3" y="67.5" class="st1" width="108.8" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 113.2899 76.6868)" class="st4 st5">SubmapPoseMessage</text>
+			</g>
+			<rect x="96.3" y="82.4" class="st2" width="108.8" height="27.5"/>
+			<rect x="96.3" y="82.4" class="st1" width="108.8" height="27.5"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 89.2896)" class="st6 st7">+global_pose: SE2</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 97.7624)" class="st6 st7">+is_anchored: bool</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 106.2353)" class="st6 st7">+is_deleted: bool</text>
+			</g>
+			<rect x="96.3" y="154.9" class="st2" width="136.1" height="14.8"/>
+			<rect x="96.3" y="154.9" class="st1" width="136.1" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 117.2426 164.046)" class="st4 st5">SubmapConstraintMessage</text>
+			</g>
+			<rect x="96.3" y="169.7" class="st2" width="136.1" height="44.5"/>
+			<rect x="96.3" y="169.7" class="st1" width="136.1" height="44.5"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 176.6488)" class="st6 st7">+target_submap_uuid: uuid_t</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 185.1216)" class="st6 st7">+measurement: SE2</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 193.5945)" class="st6 st7">+covariance: Matrix3d</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 202.0673)" class="st6 st7">+weight: double</text>
+			</g>
+			<rect x="4.4" y="0.9" class="st8" width="107.4" height="14.8"/>
+			<rect x="4.4" y="0.9" class="st1" width="107.4" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 29.5787 10.0165)" class="st9 st5">SubmapMessage</text>
+			</g>
+			<rect x="4.4" y="15.7" class="st8" width="107.4" height="27.5"/>
+			<rect x="4.4" y="15.7" class="st1" width="107.4" height="27.5"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 7.8053 22.6203)" class="st6 st7">+submap_uuid: uuid_t</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 7.8053 31.0922)" class="st6 st7">+timestamp: double</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 7.8053 39.565)" class="st6 st7">+source_id_priority: uint</text>
+			</g>
+			<line class="st1" x1="53.6" y1="88.7" x2="95.8" y2="88.7"/>
+			<rect x="96.3" y="119.9" class="st2" width="126.7" height="14.8"/>
+			<rect x="96.3" y="119.9" class="st1" width="126.7" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 115.8588 129.0111)" class="st4 st5">SubmapGridmapMessage</text>
+			</g>
+			<rect x="96.3" y="134.7" class="st2" width="126.7" height="10.6"/>
+			<rect x="96.3" y="134.7" class="st1" width="126.7" height="10.6"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 141.6139)" class="st6 st7">+is_closed: bool</text>
+			</g>
+			<rect x="96.3" y="274.4" class="st2" width="88.5" height="14.8"/>
+			<rect x="96.3" y="274.4" class="st1" width="88.5" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 110.7537 283.5484)" class="st4 st5">UgvPoseMessage</text>
+			</g>
+			<rect x="96.3" y="289.2" class="st2" width="88.5" height="10.6"/>
+			<rect x="96.3" y="289.2" class="st1" width="88.5" height="10.6"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 296.1512)" class="st6 st7">+local_pose: SE2</text>
+			</g>
+			<polyline class="st1" points="53.5,53 53.5,89.9 53.5,286.9 95.8,286.9 			"/>
+			<polygon class="st1" points="57.7,52.8 53.5,44.3 49.2,52.8 			"/>
+			<rect x="96.3" y="222.7" class="st2" width="107.4" height="14.8"/>
+			<rect x="96.3" y="222.7" class="st1" width="107.4" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 113.241 231.8198)" class="st4 st5">GroundTruthMessage</text>
+			</g>
+			<rect x="96.3" y="237.5" class="st2" width="107.4" height="27.5"/>
+			<rect x="96.3" y="237.5" class="st1" width="107.4" height="27.5"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 244.4226)" class="st6 st7">+global_pose: SE2</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 252.8954)" class="st6 st7">+covariance: Matrix3d</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 261.3683)" class="st6 st7">+is_deleted: bool</text>
+			</g>
+			<rect x="255.4" y="0.9" class="st8" width="103.3" height="14.8"/>
+			<rect x="255.4" y="0.9" class="st1" width="103.3" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 277.8757 10.0332)" class="st9 st5">GridmapMessage</text>
+			</g>
+			<rect x="255.4" y="15.7" class="st8" width="103.3" height="44.5"/>
+			<rect x="255.4" y="15.7" class="st1" width="103.3" height="44.5"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 258.7644 22.636)" class="st6 st7">+gridmap_data: char *</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 258.7644 31.1088)" class="st6 st7">+width: uint</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 258.7644 39.5816)" class="st6 st7">+height: uint</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 258.7644 48.0544)" class="st6 st7">+cells_per_meter: uint</text>
+			</g>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 258.7644 56.5263)" class="st6 st7">+origin_offset: Vector2i</text>
+			</g>
+			<polyline class="st1" points="284.5,70.2 284.5,132.8 223.3,132.8 			"/>
+			<rect x="303.2" y="122.7" class="st2" width="118.3" height="14.8"/>
+			<rect x="303.2" y="122.7" class="st1" width="118.3" height="14.8"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 321.6442 131.854)" class="st4 st5">GlobalGridmapMessage</text>
+			</g>
+			<rect x="303.2" y="137.5" class="st2" width="118.3" height="10.6"/>
+			<rect x="303.2" y="137.5" class="st1" width="118.3" height="10.6"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 306.5647 144.4568)" class="st6 st7">+global_pose: SE2</text>
+			</g>
+			<path class="st1" d="M329.8,70.5c0,5.1,0,46.9,0,52.1"/>
+			<polyline class="st10" points="311.3,70.4 307,61.9 302.8,70.4 			"/>
+			<polygon class="st1" points="334,70.4 329.8,61.9 325.5,70.4 			"/>
+			<polygon class="st1" points="288.7,70.3 284.5,61.8 280.2,70.3 			"/>
+			<g class="st3">
+				<text transform="matrix(1.0012 0 0 1 99.6704 209.8087)"><tspan x="0" y="0" class="st6 st7">+source</tspan><tspan x="23.4" y="0" class="st6 st7">:</tspan><tspan x="26.7" y="0" class="st6 st7"> source</tspan><tspan x="50" y="0" class="st6 st7">_</tspan><tspan x="53.4" y="0" class="st6 st7">t</tspan></text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

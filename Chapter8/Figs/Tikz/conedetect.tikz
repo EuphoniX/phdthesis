@@ -1,0 +1,18 @@
+\begin{tikzpicture} \label{plot:coneDetectionProcessingTimes}
+    \begin{axis}[xlabel=Time (s), ytick={1, 2}, yticklabels={Real, Sim}, width=\columnwidth, height=1.25in]
+        \addplot+ [boxplot prepared={
+          lower whisker=0.319,
+          lower quartile=0.323,
+          median=0.326,
+          upper quartile=0.337,
+          upper whisker=0.353,
+        }] coordinates{};
+        \addplot+ [boxplot prepared={
+          lower whisker=0.314,
+          lower quartile=0.323,
+          median=0.327,
+          upper quartile=0.333,
+          upper whisker=0.349,
+        }] coordinates{};
+    \end{axis}
+\end{tikzpicture}
