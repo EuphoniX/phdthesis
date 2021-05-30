@@ -291,7 +291,7 @@ supported!}
 % Compute the timestamp based on an idea of
 % Tim Piessens \texttt{<Tim.Piessens@esat.kuleuven.ac.be>}.
 
-\RequirePackage{datetime}
+\RequirePackage[ddmmyyyy]{datetime}
 
 \newcount\PHD@hour \newcount\PHD@minute
 \PHD@hour=\time
@@ -819,7 +819,7 @@ wish to left align your text}
 \newcommand{\subtitle}[1]{\renewcommand{\@subtitle}{#1}}
 
 % The year and term the degree will be officially conferred
-\newcommand{\@degreedate}{\monthname[\the\month]\space\the\year}
+\newcommand{\@degreedate}{March 2020}%{\monthname[\the\month]\space\the\year}
 \newcommand{\degreedate}[1]{\renewcommand{\@degreedate}{#1}}
 
 % The full (unabbreviated) name of the degree
@@ -1015,12 +1015,12 @@ wish to left align your text}
 \setsinglecolumn
 \chapter*{\centering \Large \@declarationtitle}
 \thispagestyle{empty}
-}{
-\flushright
-\@author{}\\
-\@degreedate{}
-\vfill
-}
+}%{
+%\flushright
+%\@author{}\\
+%\@degreedate{}
+%\vfill
+%}
 
 
 

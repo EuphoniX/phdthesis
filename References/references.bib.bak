@@ -1,6 +1,6 @@
 % Encoding: UTF-8
 
-@Misc{google_developers_protocol_nodate,
+@WWW{google_developers_protocol_nodate,
   author   = {{Google Developers}},
   title    = {Protocol {Buffers}},
   year     = {2018},
@@ -11,7 +11,7 @@
   journal  = {Google Developers},
 }
 
-@Misc{xsens_mti_nodate,
+@WWW{xsens_mti_nodate,
   author   = {Xsens},
   title    = {{MTi} (legacy product) - {Products}},
   year     = {2018},
@@ -22,7 +22,7 @@
   journal  = {Xsens 3D motion tracking},
 }
 
-@Misc{raymond_gpsd_nodate,
+@WWW{raymond_gpsd_nodate,
   author  = {Raymond, Eric S.},
   title   = {{GPSd} — {Put} your {GPS} on the net!},
   year    = {2018},
@@ -31,7 +31,7 @@
   file    = {html\:PDF:html\:GPSd — Put your GPS on the net!/\:C//\:/Users/Psykie/Zotero/storage/45WLX7IK/gpsd.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{victory_co._ltd_columbus_nodate,
+@WWW{victory_co._ltd_columbus_nodate,
   author  = {{Victory Co. Ltd}},
   title   = {Columbus {V}-800},
   year    = {2018},
@@ -63,7 +63,7 @@
   keywords = {Algorithm design and analysis, Convergence, Estimation theory, Kalman filtering, Linear systems, Linear systems, stochastic discrete-time, Nonlinear filters, Nonlinear systems, Parameter estimation, Prediction algorithms, Recursive estimation, State estimation, stochastic discrete-time},
 }
 
-@Misc{arduino_arduino_nodate,
+@WWW{arduino_arduino_nodate,
   author  = {Arduino},
   title   = {Arduino {Uno} {Rev}3},
   year    = {2018},
@@ -72,7 +72,7 @@
   file    = {html\:PDF:html\:Arduino Uno Rev3/\:C//\:/Users/Psykie/Zotero/storage/UZ9GZQ2P/arduino-uno-rev3.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{autonomoustuff_ibeo_nodate,
+@WWW{autonomoustuff_ibeo_nodate,
   author   = {AutonomouStuff},
   title    = {ibeo {Standard} {Four} {Layer} {Multi}-{Echo} {LUX} {Sensor} {\textbar} {LiDAR} {\textbar} {Product}},
   year     = {2018},
@@ -83,7 +83,7 @@
   journal  = {AutonomouStuff, LLC},
 }
 
-@Misc{sae_international_formula_nodate,
+@WWW{sae_international_formula_nodate,
   author  = {{SAE International}},
   title   = {Formula {SAE} - {SAE} {Collegiate} {Design} {Series} - {Students} - {SAE} {International}},
   year    = {2018},
@@ -92,7 +92,7 @@
   file    = {html\:PDF:html\:Formula SAE - SAE Collegiate Design Series - Students - SAE International/\:C//\:/Users/Psykie/Zotero/storage/TQQN4XQW/formulaseries.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{kohlhoff_boost.asio_nodate,
+@WWW{kohlhoff_boost.asio_nodate,
   author  = {Kohlhoff, Christopher},
   title   = {Boost.{Asio} - 1.66.0},
   year    = {2018},
@@ -101,37 +101,37 @@
   file    = {html\:PDF:html\:Boost.Asio - 1.66.0/\:C//\:/Users/Psykie/Zotero/storage/BURKLYAK/boost_asio.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{lambert_bmw_2017,
+@WWW{lambert_bmw_2017,
   author   = {Lambert, Fred},
   title    = {{BMW} and {Porsche} join forces to enable 15-min electric car charging at 450 {kW} charge rate},
   year     = {2017},
+  url      = {https://electrek.co/2017/12/05/bmw-porsche-electric-car-charging-450-kw-charge-rate/},
   language = {en},
   month    = dec,
-  url      = {https://electrek.co/2017/12/05/bmw-porsche-electric-car-charging-450-kw-charge-rate/},
   urldate  = {2018-02-02},
   abstract = {BMW and Porsche are already working together and with other major automakers, like Mercedes and Ford, on the major Ionity ultra-fast (350 kW) electric car charging network in Europe. But now they w…},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/NKH3GCQ6/bmw-porsche-electric-car-charging-450-kw-charge-rate.html/\:text/html\:PDF:PDF},
   journal  = {Electrek},
 }
 
-@Misc{kane_fastcharge_2017,
+@WWW{kane_fastcharge_2017,
   author   = {Kane, Mark},
   title    = {{FastCharge} {Now} {Evaluating} 450 {kW} {Charging}},
   year     = {2017},
+  url      = {https://insideevs.com/fastcharge-now-evaluating-450-kw-charging/},
   language = {en},
   month    = dec,
-  url      = {https://insideevs.com/fastcharge-now-evaluating-450-kw-charging/},
   urldate  = {2018-02-02},
   file     = {html\:PDF:html\:FastCharge Now Evaluating 450 kW Charging/\:C//\:/Users/Psykie/Zotero/storage/F9UYKQS9/fastcharge-now-evaluating-450-kw-charging.html/\:text/html\:PDF:PDF},
   journal  = {InsideEVs},
 }
 
-@Misc{tritium_pty_ltd_veefil--electric_2015,
+@WWW{tritium_pty_ltd_veefil--electric_2015,
   author    = {{Tritium}},
   title     = {Veefil--{Electric} vehicle fast charger instruction manual},
   year      = {2015},
-  language  = {en},
   url       = {https://fccid.io/2AFHX-TRI935001US/User-Manual/Users-Manual-3059907.pdf},
+  language  = {en},
   urldate   = {2018-02-02},
   publisher = {Tritium Pty Ltd},
 }
@@ -150,7 +150,7 @@
   school      = {ClimateWorks Publication},
 }
 
-@Misc{rac_wa_rac_nodate,
+@WWW{rac_wa_rac_nodate,
   author   = {{RAC WA}},
   title    = {{RAC} {Electric} {Highway}},
   year     = {2018},
@@ -212,13 +212,13 @@
   school      = {National Energy Administration},
 }
 
-@Misc{charging_interface_initiative_e._v._ccs_2018,
+@WWW{charging_interface_initiative_e._v._ccs_2018,
   author   = {{Charging Interface Initiative e. V.}},
   title    = {{CCS} {Specification}},
   year     = {2018},
+  url      = {http://www.charinev.org/ccs-at-a-glance/ccs-specification/},
   language = {en},
   month    = jan,
-  url      = {http://www.charinev.org/ccs-at-a-glance/ccs-specification/},
   urldate  = {2018-02-02},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/GJBVW5FH/ccs-specification.html/\:text/html\:PDF:PDF},
 }
@@ -241,7 +241,7 @@
   shorttitle = {Future standard and fast charging infrastructure planning},
 }
 
-@Misc{plugshare_plugshare_nodate,
+@WWW{plugshare_plugshare_nodate,
   author   = {PlugShare},
   title    = {{PlugShare} - {EV} {Charging} {Station} {Map}},
   year     = {2018},
@@ -262,7 +262,7 @@
   school   = {Technical University of Denmark},
 }
 
-@Misc{tesla_supercharger_nodate,
+@WWW{tesla_supercharger_nodate,
   author   = {Tesla},
   title    = {Supercharger},
   year     = {2018},
@@ -307,7 +307,7 @@
   keywords = {Driver behaviour, Electric vehicles, Inductive charging, Parking alignment, Wireless charging},
 }
 
-@Misc{department_of_infrastructure_and_regional_development_green_2018,
+@WWW{department_of_infrastructure_and_regional_development_green_2018,
   author  = {{Department of Infrastructure {and} Regional Development}},
   title   = {Green {Vehicle} {Guide}},
   year    = {2018},
@@ -316,7 +316,7 @@
   file    = {html\:PDF:html\:Green Vehicle Guide Home\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\V7ZHKY7L\\\\\\\\www.greenvehicleguide.gov.au.html\\\:text/html\:PDF:PDF},
 }
 
-@Misc{open_charge_alliance_ocpp_nodate,
+@WWW{open_charge_alliance_ocpp_nodate,
   author  = {{Open Charge Alliance}},
   title   = {{OCPP} 1.6, {OCPP}, {Protocols} - {Open} {Charge} {Alliance}},
   year    = {2018},
@@ -325,13 +325,13 @@
   file    = {html\:PDF:html\:OCPP 1.6, OCPP, Protocols - Open Charge Alliance/\:C//\:/Users/Psykie/Zotero/storage/7DHPJI97/ocpp-16.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{bullis_electric_2013,
+@WWW{bullis_electric_2013,
   author   = {Bullis, Kevin},
   title    = {Electric {Vehicles} {Out} in the {Cold}},
   year     = {2013},
+  url      = {https://www.technologyreview.com/s/522496/electric-vehicles-out-in-the-cold/},
   language = {en},
   month    = dec,
-  url      = {https://www.technologyreview.com/s/522496/electric-vehicles-out-in-the-cold/},
   urldate  = {2018-02-02},
   abstract = {Electric vehicle range drops in cold weather, and technological solutions are years away.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/VX8UJI8C/electric-vehicles-out-in-the-cold.html/\:text/html\:PDF:PDF},
@@ -432,65 +432,65 @@ In this paper we discuss the feasibility and limitations of various renewable en
   keywords = {Acceptance, E-mobility, Fast DC charging, Future concept, Prediction},
 }
 
-@Misc{statista_worldwide_nodate,
+@WWW{statista_worldwide_nodate,
   author   = {Statista},
   title    = {Worldwide number of battery electric vehicles in use from 2012 to 2016 (in 1,000s)},
   year     = {2018},
-  language = {en},
   url      = {https://www.statista.com/statistics/270603/worldwide-number-of-hybrid-and-electric-vehicles-since-2009/},
+  language = {en},
   urldate  = {2018-02-02},
   abstract = {How many electric cars are there in the world? This statistic shows the number of electric vehicles in the world 2012-2016. There were some 1.2 million electric vehicles in use globally in 2016.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/R7J57RL6/worldwide-number-of-hybrid-and-electric-vehicles-since-2009.html/\:text/html\:PDF:PDF},
   journal  = {Statista},
 }
 
-@Misc{department_of_infrastructure_and_regional_development_vehicle_2016,
+@WWW{department_of_infrastructure_and_regional_development_vehicle_2016,
   author    = {{Department of Infrastructure {and} Regional Development}},
   title     = {Vehicle emissions standards for cleaner air},
   year      = {2016},
+  url       = {https://infrastructure.gov.au/roads/environment/forum/files/Vehicle_Noxious_Emissions_RIS.pdf},
   language  = {English},
   month     = dec,
-  url       = {https://infrastructure.gov.au/roads/environment/forum/files/Vehicle_Noxious_Emissions_RIS.pdf},
   urldate   = {2018-02-02},
   publisher = {Australian Government},
 }
 
-@Misc{straubel_driving_2014,
+@WWW{straubel_driving_2014,
   author   = {Straubel, JB},
   title    = {Driving {Range} for the {Model} {S} {Family}},
   year     = {2014},
-  month    = dec,
   url      = {https://www.tesla.com/en_AU/blog/driving-range-model-s-family},
+  month    = dec,
   urldate  = {2018-02-02},
   abstract = {As the Model S family has expanded over time it has become more relevant to compare range from one variant to another with a consistent set of assumptions so our customers can know what to expect and make the best decision to fit their needs. This can be a bit difficult since the background test methodology and standards from the US EPA are evolving over time. There are also many customer vehicle configuration choices, both before and after purchase, that can affect range as much as or more than the vehicle platform choice itself.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/NCJF3R3M/driving-range-model-s-family.html/\:text/html\:PDF:PDF},
   journal  = {Tesla Blog},
 }
 
-@Misc{international_electrotechnical_commission_iec_2017,
+@WWW{international_electrotechnical_commission_iec_2017,
   author  = {{International Electrotechnical Commission}},
   title   = {{IEC} 61851-1:2017},
   year    = {2017},
-  month   = feb,
   url     = {https://webstore.iec.ch/publication/33644},
+  month   = feb,
   urldate = {2018-02-02},
   file    = {html\:PDF:html\:IEC 61851-1//\:2017 | IEC Webstore/\:C//\:/Users/Psykie/Zotero/storage/SP2JH8LH/33644.html/\:text/html\:PDF:PDF},
   journal = {IEC Webstore},
 }
 
-@Misc{autoware_autoware_nodate,
+@WWW{autoware_autoware_nodate,
   author   = {Autoware},
   title    = {Autoware},
   year     = {2018},
-  language = {en},
   url      = {https://autoware.ai/},
+  language = {en},
   urldate  = {2018-02-13},
   abstract = {Open-Source To Self-Driving},
   file     = {html\:PDF:html\:Snapshot\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\EP6AEXG9\\\\\\\\www.autoware.ai.html\\\:text/html\:PDF:PDF},
   journal  = {Autoware},
 }
 
-@Misc{baidu_apollo_nodate,
+@WWW{baidu_apollo_nodate,
   author  = {Baidu},
   title   = {Apollo},
   year    = {2018},
@@ -3000,10 +3000,11 @@ In this paper we discuss the feasibility and limitations of various renewable en
   journal  = {NVIDIA},
 }
 
-@Misc{agarwal_ceres_nodate,
+@WWW{agarwal_ceres_nodate,
   author       = {Sameer Agarwal and Keir Mierle and Others},
   title        = {Ceres Solver},
   year         = {2019},
+  url          = {http://ceres-solver.org/},
   howpublished = {\url{http://ceres-solver.org}},
 }
 
@@ -3563,12 +3564,12 @@ In this paper we discuss the feasibility and limitations of various renewable en
   month     = oct,
 }
 
-@Misc{openmp_openmp_nodate,
+@WWW{openmp_openmp_nodate,
   author   = {{OpenMP}},
   title    = {{OpenMP}},
   year     = {2018},
-  language = {en-GB},
   url      = {http://www.openmp.org/},
+  language = {en-GB},
   urldate  = {2018-04-19},
   abstract = {Latest News     View Monthly Archives  @OpenMP\_ARB
 
@@ -3636,7 +3637,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   abstract = {RGB-D cameras that can provide rich 2D visual and 3D depth information are well suited to the motion estimation of indoor mobile robots. In recent years, several RGB-D visual odometry methods that process data from the sensor in different ways have been proposed. This paper first presents a brief review of recently proposed RGB-D visual odometry methods, and then presents a detailed analysis and comparison of eight state-of-the-art real-time 6DOF motion estimation methods in a variety of challenging scenarios, with a special emphasis on the trade-off between accuracy, robustness and computation speed. An experimental comparison is conducted using publicly available benchmark datasets and author-collected datasets in various scenarios, including long corridors, illumination changing environments and fast motion scenarios. Experimental results present both quantitative and qualitative differences between these methods and provide some guidelines on how to choose the right algorithm for an indoor mobile robot according to the quality of the RGB-D data and environmental characteristics.},
 }
 
-@Misc{geiger_visual_nodate,
+@WWW{geiger_visual_nodate,
   author  = {Geiger, Andreas},
   title   = {Visual {Odometry} / {SLAM} {Evaluation} 2012},
   year    = {2019},
@@ -4006,7 +4007,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   keywords = {autonomous driving, mobile robots, robot vision, Cameras, image colour analysis, object detection, Optical imaging, Optical sensors, stereo image processing, image fusion, image enhancement, Laser radar, cameras, optical radar, advanced driver assistance system, Dataset, Calibration, autonomous systems, calibration, 3D LiDAR, all-day perception, benchmarks, co-aligned RGB-thermal camera, coarse time slots, colorization, data format, depth estimation, development toolkits, drivable region detection, fine time slots, inertial sensors, infrared imaging, KAIST multi-sepctral, KAIST multispectral day data set, KAIST multispectral night data set, multi-spectral dataset in day and night, multi-spectral vehicle system, multisensor platform, multispectral approach, Optical distortion, recording platform, related calibration technique, RGB stereo, single spectral approach, spectral analysis, spectral sensor, thermal imaging camera, Thermal sensors, visual perception, visual perception tasks},
 }
 
-@Misc{sae_international_student_nodate,
+@WWW{sae_international_student_nodate,
   author  = {{SAE International}},
   title   = {Student {Events} - {Events} - {Collegiate} {Design} {Series}},
   year    = {2018},
@@ -4015,18 +4016,20 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Student Events - Events - Collegiate Design Series/\:C//\:/Users/Psykie/Zotero/storage/XZW7ADWT/student-events.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{valiente_garcia_visual_2012,
-  author   = {Valiente García, David and Fernández Rojo, Lorenzo and Gil Aparicio, Arturo and Payá Castelló, Luis and Reinoso García, Oscar},
-  title    = {Visual {Odometry} through {Appearance}- and {Feature}-{Based} {Method} with {Omnidirectional} {Images}},
-  year     = {2012},
-  language = {en},
-  type     = {Research article},
-  doi      = {10.1155/2012/797063},
-  url      = {https://www.hindawi.com/journals/jr/2012/797063/},
-  urldate  = {2018-04-30},
-  abstract = {In the field of mobile autonomous robots, visual odometry entails the retrieval of a motion transformation between two consecutive poses of the robot by means of a camera sensor solely. A visual odometry provides an essential information for trajectory estimation in problems such as Localization and SLAM (Simultaneous Localization and Mapping). In this work we present a motion estimation based on a single omnidirectional camera. We exploited the maximized horizontal field of view provided by this camera, which allows us to encode large scene information into the same image. The estimation of the motion transformation between two poses is incrementally computed, since only the processing of two consecutive omnidirectional images is required. Particularly, we exploited the versatility of the information gathered by omnidirectional images to perform both an appearance-based and a feature-based method to obtain visual odometry results. We carried out a set of experiments in real indoor environments to test the validity and suitability of both methods. The data used in the experiments consists of a large sets of omnidirectional images captured along the robot's trajectory in three different real scenarios. Experimental results demonstrate the accuracy of the estimations and the capability of both methods to work in real-time.},
-  file     = {xhtml+xml\:PDF:xhtml+xml\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/FL6D6BRK/797063.html/\:application/xhtml+xml\:PDF:PDF},
-  journal  = {Journal of Robotics},
+@Article{valiente_garcia_visual_2012,
+  author    = {Valiente García, David and Fernández Rojo, Lorenzo and Gil Aparicio, Arturo and Payá Castelló, Luis and Reinoso García, Oscar},
+  title     = {Visual {Odometry} through {Appearance}- and {Feature}-{Based} {Method} with {Omnidirectional} {Images}},
+  journal   = {Journal of Robotics},
+  year      = {2012},
+  language  = {en},
+  pages     = {1--13},
+  doi       = {10.1155/2012/797063},
+  url       = {https://www.hindawi.com/journals/jr/2012/797063/},
+  urldate   = {2018-04-30},
+  abstract  = {In the field of mobile autonomous robots, visual odometry entails the retrieval of a motion transformation between two consecutive poses of the robot by means of a camera sensor solely. A visual odometry provides an essential information for trajectory estimation in problems such as Localization and SLAM (Simultaneous Localization and Mapping). In this work we present a motion estimation based on a single omnidirectional camera. We exploited the maximized horizontal field of view provided by this camera, which allows us to encode large scene information into the same image. The estimation of the motion transformation between two poses is incrementally computed, since only the processing of two consecutive omnidirectional images is required. Particularly, we exploited the versatility of the information gathered by omnidirectional images to perform both an appearance-based and a feature-based method to obtain visual odometry results. We carried out a set of experiments in real indoor environments to test the validity and suitability of both methods. The data used in the experiments consists of a large sets of omnidirectional images captured along the robot's trajectory in three different real scenarios. Experimental results demonstrate the accuracy of the estimations and the capability of both methods to work in real-time.},
+  file      = {xhtml+xml\:PDF:xhtml+xml\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/FL6D6BRK/797063.html/\:application/xhtml+xml\:PDF:PDF},
+  publisher = {Hindawi Limited},
+  type      = {Research article},
 }
 
 @article{martinez-lao_electric_2017,
@@ -4073,7 +4076,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   keywords = {Cameras, Layout, Sensor arrays, video camera, Algorithms, Image Enhancement, Image Interpretation, Computer-Assisted, Reproducibility of Results, Sensitivity and Specificity, Motion estimation, motion estimation, array signal processing, Artifacts, Bezier curve fitting, CMOS image sensors, CMOS process, CMOS technology, Complementary metal-oxide semiconductor (CMOS) sensor array, complementary metal-oxide semiconductor image sensor array, complex 3D feature correspondences, electronic rolling shutter, geometric image distortion, Image processing, Image sensors, interframe distortions, intraframe distortions, MOS devices, motion analysis, Photography, planar motion model, rolling shutter, rolling shutter effect, sequential-readout structure},
 }
 
-@Misc{flir_fujinon_nodate,
+@WWW{flir_fujinon_nodate,
   author  = {FLIR},
   title   = {Fujinon {YV}2.8×2.8SA-2, 2.8mm-8mm, 1/3", {CS} mount {Lens}},
   year    = {2018},
@@ -4082,7 +4085,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Fujinon YV2.8×2.8SA-2, 2.8mm-8mm, 1/3", CS mount Lens/\:C//\:/Users/Psykie/Zotero/storage/MR2SSXS3/fujinon-yv28x28sa-2-hd-vari-focal-lens-3.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{flir_blackfly_nodate,
+@WWW{flir_blackfly_nodate,
   author   = {FLIR},
   title    = {Blackfly 1.3 {MP} {Color} {GigE} {PoE} ({Sony} {ICX}445)},
   year     = {2018},
@@ -4093,7 +4096,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   journal  = {FLIR},
 }
 
-@Misc{sick_ag_lms111-10100_nodate,
+@WWW{sick_ag_lms111-10100_nodate,
   author  = {{SICK AG}},
   title   = {{LMS}111-10100},
   year    = {2018},
@@ -4103,7 +4106,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   journal = {Detection and Ranging Solutions},
 }
 
-@Misc{arduino_arduino_nodate-1,
+@WWW{arduino_arduino_nodate-1,
   author  = {Arduino},
   title   = {Arduino {Nano}},
   year    = {2018},
@@ -4163,7 +4166,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   shorttitle = {{RViz}},
 }
 
-@Misc{open_source_robotics_foundation_ros/introduction_nodate,
+@WWW{open_source_robotics_foundation_ros/introduction_nodate,
   author  = {{Open Source Robotics Foundation}},
   title   = {{ROS}/{Introduction} - {ROS} {Wiki}},
   year    = {2019},
@@ -4172,12 +4175,12 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:ROS/Introduction - ROS Wiki/\:C//\:/Users/Psykie/Zotero/storage/LKRCXKU4/Introduction.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{xsens_mti-g-710_nodate,
+@WWW{xsens_mti-g-710_nodate,
   author   = {Xsens},
   title    = {{MTi}-{G}-710},
   year     = {2019},
-  language = {en-US},
   url      = {https://www.xsens.com/products/mti-g-710/},
+  language = {en-US},
   urldate  = {2018-09-05},
   abstract = {The MTi-G-710 is an industrial grade miniature GNSS-aided, IMU-enhanced GNSS/INS...},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/ZIVX6TSM/mti-g-710.html/\:text/html\:PDF:PDF},
@@ -4360,7 +4363,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file     = {pdf\:PDF:pdf\:IEEE Xplore Abstract Record/\:C//\:/Users/Psykie/Zotero/storage/NCVX5HGN/5388473.html/\:text/html/\;IEEE Xplore Full Text PDF/\:C//\:/Users/Psykie/Zotero/storage/DXH6KC7F/Bresenham - 1965 - Algorithm for computer control of a digital plotte.pdf/\:application/pdf\:PDF:PDF},
 }
 
-@Misc{sti_engineering_pty_ltd_rfinnovations_nodate,
+@WWW{sti_engineering_pty_ltd_rfinnovations_nodate,
   author  = {{STI Engineering Pty Ltd}},
   title   = {{RFInnovations} {RFI}-9256 900MHz {High} {Speed} {Data} {Radio}},
   year    = {2018},
@@ -4369,7 +4372,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   journal = {RFInnovations},
 }
 
-@Misc{ubiquiti_networks_picostation2hp_nodate,
+@WWW{ubiquiti_networks_picostation2hp_nodate,
   author  = {{Ubiquiti Networks}},
   title   = {{PicoStation}2HP {Datasheet}},
   year    = {2018},
@@ -4378,7 +4381,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {pdf\:PDF:pdf\:pico2hp_ds.pdf/\:C//\:/Users/Psykie/Zotero/storage/C2JIXRXP/pico2hp_ds.pdf/\:application/pdf\:PDF:PDF},
 }
 
-@Misc{adept_technology_inc._pioneer_nodate,
+@WWW{adept_technology_inc._pioneer_nodate,
   author  = {{Adept Technology, Inc.}},
   title   = {Pioneer 3-{AT}},
   year    = {2018},
@@ -4387,7 +4390,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {pdf\:PDF:pdf\:Pioneer3AT-P3AT-RevA.sflb.pdf/\:C//\:/Users/Psykie/Zotero/storage/UKMA9FRT/Pioneer3AT-P3AT-RevA.sflb.pdf/\:application/pdf\:PDF:PDF},
 }
 
-@Misc{logitech_quickcam_nodate,
+@WWW{logitech_quickcam_nodate,
   author  = {Logitech},
   title   = {{QuickCam}® {Orbit} {AF}},
   year    = {2018},
@@ -4396,7 +4399,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:QuickCam® Orbit AF - Logitech Support/\:C//\:/Users/Psykie/Zotero/storage/35YGKCQV/specs.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{qstarz_international_co._ltd._bt-q818xt_nodate,
+@WWW{qstarz_international_co._ltd._bt-q818xt_nodate,
   author  = {{QStarz International Co., Ltd.}},
   title   = {{BT}-{Q}818XT},
   year    = {2018},
@@ -4405,7 +4408,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:BT-Q818XT/\:C//\:/Users/Psykie/Zotero/storage/J9QQ8U29/BT-Q818XT-F.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{hokuyo_automatic_co._ltd._scanning_nodate,
+@WWW{hokuyo_automatic_co._ltd._scanning_nodate,
   author  = {{Hokuyo Automatic Co., Ltd.}},
   title   = {Scanning {Rangefinder} {Distance} {Data} {Output}/{URG}-04LX-{UG}01},
   year    = {2018},
@@ -5025,41 +5028,41 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   keywords  = {Automobiles, mobile robots, Roads, traffic engineering computing, feature extraction, image classification, image segmentation, Semantics, Cameras, object detection, Image edge detection, road traffic, Laser radar, road detection, automobiles, cameras, optical radar, Robot sensing systems, edge detection, autonomous ground vehicle, collision avoidance, distance measurement, obstacle avoidance, autonomous driving sequences, autonomous driving systems, distance measurements, Formula-SAE Electric car, lane markers classification, lane marking detection, LIDAR measurements, LIDAR readings, low-cost monocular camera, object segmentation, remotely operated vehicles, road edges classification, road lane markings, semantic image segmentation, video recordings},
 }
 
-@misc{chen_yunchih/orb-slam2-gpu2016-final_2019,
-	title = {yunchih/{ORB}-{SLAM}2-{GPU}2016-final},
-	copyright = {View license},
-	url = {https://github.com/yunchih/ORB-SLAM2-GPU2016-final},
-	urldate = {2019-02-25},
-	author = {Chen, Yunchih},
-	month = feb,
-	year = {2019},
-	note = {original-date: 2016-05-09T22:52:27Z}
+@WWW{chen_yunchih/orb-slam2-gpu2016-final_2019,
+  author    = {Chen, Yunchih},
+  title     = {yunchih/{ORB}-{SLAM}2-{GPU}2016-final},
+  year      = {2019},
+  url       = {https://github.com/yunchih/ORB-SLAM2-GPU2016-final},
+  note      = {original-date: 2016-05-09T22:52:27Z},
+  month     = feb,
+  urldate   = {2019-02-25},
+  copyright = {View license},
 }
 
-@Misc{chargestar_chargestar_nodate,
+@WWW{chargestar_chargestar_nodate,
   author   = {{ChargeStar}},
   title    = {{ChargeStar}},
   year     = {2018},
-  language = {en-US},
   url      = {https://www.chargestar.com.au/},
+  language = {en-US},
   urldate  = {2019-04-10},
   abstract = {EV Charge Stations \& Supplies {\textbar} Charge Station Access Swipe Cards (RFID) {\textbar} EV Control Systems {\textbar} EV Users Web Interface {\textbar} Tel: (08) 6102 1285},
   file     = {html\:PDF:html\:Snapshot\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\NMXB6U6C\\\\\\\\www.chargestar.com.au.html\\\:text/html\:PDF:PDF},
   journal  = {ChargeStar},
 }
 
-@Misc{guy_python_2019,
+@WWW{guy_python_2019,
   author    = {Guy, J. J.},
   title     = {Python module to create heatmaps.},
   year      = {2019},
+  url       = {https://github.com/jjguy/heatmap},
   note      = {original-date: 2012-09-18T02:02:44Z},
   month     = mar,
-  url       = {https://github.com/jjguy/heatmap},
   urldate   = {2019-04-04},
   copyright = {MIT},
 }
 
-@Misc{asial_corporation_jpgraph_nodate,
+@WWW{asial_corporation_jpgraph_nodate,
   author  = {{Asial Corporation}},
   title   = {{JpGraph}},
   year    = {2018},
@@ -5069,7 +5072,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
 }
 
 @TechReport{sma_solar_technology_ag_sunny_nodate,
-  author      = {SMA Solar Technology AG},
+  author      = {{SMA Solar Technology AG}},
   title       = {Sunny {Webbox}},
   institution = {SMA Solar Technology AG},
   year        = {2018},
@@ -5080,7 +5083,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
 }
 
 @TechReport{sma_solar_technology_ag_sunny_2017,
-  author      = {SMA Solar Technology AG},
+  author      = {{SMA Solar Technology AG}},
   title       = {Sunny {Tripower} 5000TL-12000TL},
   institution = {SMA Solar Technology AG},
   year        = {2017},
@@ -5168,37 +5171,37 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   type     = {Datasheet},
 }
 
-@Misc{nxp_semiconductors_mifare_nodate,
+@WWW{nxp_semiconductors_mifare_nodate,
   author   = {{NXP Semiconductors}},
   title    = {{MIFARE} {DESFire} {EV}1},
   year     = {2018},
-  language = {en},
   url      = {https://www.mifare.net/en/products/chip-card-ics/mifare-desfire/mifare-desfire-ev1/},
+  language = {en},
   urldate  = {2019-04-03},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/QXBSCTIG/mifare-desfire-ev1.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{xiamen_four-faith_communication_technology_co._ltd._f2414_nodate,
+@WWW{xiamen_four-faith_communication_technology_co._ltd._f2414_nodate,
   author  = {{Xiamen Four-Faith Communication Technology Co., Ltd.}},
-  title   = {F2414 {UMTS}/{WCDMA}/{HSDPA}/{HSUPA} {IP} {MODEM}({DTU})},
+  title   = {F2414 {IP} {MODEM}({DTU})},
   year    = {2018},
   url     = {https://en.four-faith.com/f2414-wcdma-ip-modem.html},
   urldate = {2019-04-03},
   file    = {html\:PDF:html\:Difference Modem Between WCDMA,GPRS,GSM,HSPA,HSDPA,HSUPA,UTMS/\:C//\:/Users/Psykie/Zotero/storage/FEQLAQXN/f2414-wcdma-ip-modem.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{google_developers_google_nodate,
+@WWW{google_developers_google_nodate,
   author   = {{Google Developers}},
   title    = {Google {Visualization} {API} {Reference} {\textbar} {Charts}},
   year     = {2019},
-  language = {en},
   url      = {https://developers.google.com/chart/interactive/docs/reference},
+  language = {en},
   urldate  = {2019-04-03},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/ZXSIHLKR/reference.html/\:text/html\:PDF:PDF},
   journal  = {Google Developers},
 }
 
-@Misc{tritium_pty_ltd_veefil-rt_nodate,
+@WWW{tritium_pty_ltd_veefil-rt_nodate,
   author  = {{Tritium}},
   title   = {{VEEFIL}-{RT} 50KW {DC} {FAST} {CHARGER}},
   year    = {2019},
@@ -5235,7 +5238,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file      = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/NJX4WIKY/1224141.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{elaadnl_elaad_nodate,
+@WWW{elaadnl_elaad_nodate,
   author  = {ElaadNL},
   title   = {Elaad {NL}},
   year    = {2019},
@@ -5244,12 +5247,12 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Home - Elaad NL\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\VNDIQEIU\\\\\\\\www.elaad.nl.html\\\:text/html\:PDF:PDF},
 }
 
-@article{commission_iec_2014,
-	title = {{IEC} 62196-3: 2014},
-	volume = {3},
-	journal = {Plugs, Socket-Outlets, Vehicle Connectors and Vehicle Inlets–Conductive Charging of Electric Vehicles–Part},
-	author = {Commission, International Electrotechnical},
-	year = {2014}
+@Article{commission_iec_2014,
+  author  = {{International Electrotechnical Commission}},
+  title   = {{IEC} 62196-3: 2014},
+  journal = {Plugs, Socket-Outlets, Vehicle Connectors and Vehicle Inlets–Conductive Charging of Electric Vehicles–Part},
+  year    = {2014},
+  volume  = {3},
 }
 
 @inproceedings{anegawa_development_2010,
@@ -5260,19 +5263,19 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
 	year = {2010}
 }
 
-@Misc{synergy_solar_nodate,
+@WWW{synergy_solar_nodate,
   author   = {Synergy},
   title    = {Solar \& battery},
   year     = {2018},
-  language = {en},
   url      = {https://www.synergy.net.au:443/Solar-and-battery},
+  language = {en},
   urldate  = {2019-04-02},
   abstract = {Our SolarReturn solution gives you access to a range of high quality, high efficiency solar system packages, coupled with our long history and dedication to great customer service. Click here to find out how you can maximise your savings and minimise your energy costs.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/FR3DFEQD/Solar-and-battery.html/\:text/html\:PDF:PDF},
   journal  = {Synergy},
 }
 
-@Misc{solaredge_technologies_inc._solaredge_nodate,
+@WWW{solaredge_technologies_inc._solaredge_nodate,
   author  = {{SolarEdge Technologies Inc.}},
   title   = {{SolarEdge}},
   year    = {2019},
@@ -5281,8 +5284,8 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:SolarEdge | A World Leader in Smart Energy | A World Leader in Smart Energy/\:C//\:/Users/Psykie/Zotero/storage/6S26KRNI/aus.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{gpsgate_ab_gpsgate_nodate,
-  author  = {GpsGate AB},
+@WWW{gpsgate_ab_gpsgate_nodate,
+  author  = {{GpsGate AB}},
   title   = {{GpsGate}},
   year    = {2019},
   url     = {https://gpsgate.com/},
@@ -5290,7 +5293,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:GpsGate - GPS Tracking your way/\:C//\:/Users/Psykie/Zotero/storage/Q82IT7TE/gpsgate.com.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{traccar_ltd_traccar_nodate,
+@WWW{traccar_ltd_traccar_nodate,
   author  = {{Traccar Ltd}},
   title   = {Traccar},
   year    = {2019},
@@ -5299,7 +5302,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:GPS Tracking Software - Free and Open Source System - Traccar\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\HXXQ23JT\\\\\\\\www.traccar.org.html\\\:text/html\:PDF:PDF},
 }
 
-@Misc{geotelematic_solutions_inc._opengts_nodate,
+@WWW{geotelematic_solutions_inc._opengts_nodate,
   author  = {{GeoTelematic Solutions, Inc.}},
   title   = {{OpenGTS}},
   year    = {2019},
@@ -5308,23 +5311,23 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:GPS Tracking\\\\\\\: Open-Source GPS Tracking System - OpenGTS\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\5GDRIP69\\\\\\\\www.opengts.org.html\\\:text/html\:PDF:PDF},
 }
 
-@Misc{go_electric_stations_s.r.l.s_go_nodate,
+@WWW{go_electric_stations_s.r.l.s_go_nodate,
   author   = {{Go Electric Stations S.r.l.s}},
   title    = {Go {Electric} {Stations}},
   year     = {2019},
-  language = {en},
   url      = {https://goelectricstations.com/},
+  language = {en},
   urldate  = {2019-04-02},
   abstract = {Go Electric Stations - - EV-World - Discover charge points worldwide},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/2XWB6K2G/goelectricstations.com.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{chargepoint_inc_chargepoint_nodate,
+@WWW{chargepoint_inc_chargepoint_nodate,
   author   = {{ChargePoint Inc}},
   title    = {{ChargePoint}},
   year     = {2019},
-  language = {en-au},
   url      = {https://www.chargepoint.com},
+  language = {en-au},
   urldate  = {2019-04-02},
   abstract = {ChargePoint is the world's largest network of electric vehicle (EV) charging stations in the US, Europe, Australia. Join the EV revolution for a greener tomorrow!},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/Q2CUWC7L/en-au.html/\:text/html\:PDF:PDF},
@@ -5375,19 +5378,19 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   school   = {International Energy Agency},
 }
 
-@Misc{linxio_linxio_nodate,
+@WWW{linxio_linxio_nodate,
   author   = {{Linxio}},
   title    = {Linxio},
   year     = {2019},
-  language = {en-US},
   url      = {https://linxio.com/},
+  language = {en-US},
   urldate  = {2019-04-23},
   abstract = {Specialising in GPS trackers to suit any budget and industry in Australia. Find out more about Linxio's best in class GPS Management Software today.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/LJDT2FUM/linxio.com.html/\:text/html\:PDF:PDF},
   journal  = {linxio.com},
 }
 
-@Misc{verizon_fleetmatics_nodate,
+@WWW{verizon_fleetmatics_nodate,
   author  = {{Verizon}},
   title   = {Fleetmatics},
   year    = {2019},
@@ -5396,7 +5399,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Fleetmatics REVEAL and WORK have become Verizon Connect/\:C//\:/Users/Psykie/Zotero/storage/QRZJ3GG7/fleetmatics.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{netstar_ezy2c_nodate,
+@WWW{netstar_ezy2c_nodate,
   author   = {{NETSTAR}},
   title    = {{EZY}2c {GPS} {Tracking}},
   year     = {2019},
@@ -5472,7 +5475,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   address   = {London, UK},
 }
 
-@Misc{australian_government_green_nodate,
+@WWW{australian_government_green_nodate,
   author  = {{Australian Government}},
   title   = {Green {Vehicle} {Guide} {Home}},
   year    = {2019},
@@ -5532,14 +5535,14 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   type          = {Article},
 }
 
-@misc{roberts_media_2012,
-	title = {Media {Release}: {ABMARC} releases key findings from their electric \& hybrid vehicles report},
-	url = {http://www.abmarc.com.au/7_news_&_downloads/downloads/assets/ABMARC%20EV%20and%20Hybrid%20Report%20-%20Media%20Release.pdf},
-	language = {English},
-	publisher = {ABMARC},
-	author = {Roberts, Natalie},
-	month = oct,
-	year = {2012}
+@Unpublished{roberts_media_2012,
+  author    = {Roberts, Natalie},
+  title     = {Media {Release}: {ABMARC} releases key findings from their electric \& hybrid vehicles report},
+  year      = {2012},
+  language  = {English},
+  month     = oct,
+  url       = {http://www.abmarc.com.au/7_news_&_downloads/downloads/assets/ABMARC%20EV%20and%20Hybrid%20Report%20-%20Media%20Release.pdf},
+  publisher = {ABMARC},
 }
 
 @TechReport{kinghorn_forecast_2011,
@@ -5588,28 +5591,28 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   school      = {Clean Energy Council},
 }
 
-@Misc{noauthor_jquery_2019,
+@WWW{noauthor_jquery_2019,
   author    = {jQuery},
   title     = {{jQuery} {JavaScript} {Library}},
   year      = {2019},
+  url       = {https://github.com/jquery/jquery},
   note      = {original-date: 2009-04-03T15:20:14Z},
   month     = may,
-  url       = {https://github.com/jquery/jquery},
   urldate   = {2019-05-01},
   copyright = {MIT},
   publisher = {jQuery},
 }
 
-@misc{vanderkam_interactive_2019,
-	title = {Interactive visualizations of time series using {JavaScript} and the {HTML} canvas tag: danvk/dygraphs},
-	copyright = {MIT},
-	shorttitle = {Interactive visualizations of time series using {JavaScript} and the {HTML} canvas tag},
-	url = {https://github.com/danvk/dygraphs},
-	urldate = {2019-05-01},
-	author = {Vanderkam, Dan},
-	month = apr,
-	year = {2019},
-	note = {original-date: 2009-11-24T10:26:21Z}
+@WWW{vanderkam_interactive_2019,
+  author     = {Vanderkam, Dan},
+  title      = {Interactive visualizations of time series using {JavaScript} and the {HTML} canvas tag: danvk/dygraphs},
+  year       = {2019},
+  url        = {https://github.com/danvk/dygraphs},
+  note       = {original-date: 2009-11-24T10:26:21Z},
+  month      = apr,
+  urldate    = {2019-05-01},
+  copyright  = {MIT},
+  shorttitle = {Interactive visualizations of time series using {JavaScript} and the {HTML} canvas tag},
 }
 
 @inproceedings{kour_real-time_2014,
@@ -6122,6 +6125,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   author = {{BerkeleyVision}},
   title  = {Caffe {\textbackslash}textbar {Deep} {Learning} {Framework}},
   year   = {2016},
+  url    = {https://caffe.berkeleyvision.org/},
 }
 
 @article{iandola_squeezenet:_2016-1,
@@ -6135,6 +6139,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   author = {{Volvo Car Corporation}},
   title  = {Autonomous {Driving} {\textbackslash}textbar {Intellisafe} {\textbackslash}textbar {Volvo} {Cars}},
   year   = {2017},
+  url    = {https://www.volvocars.com/intl/discover-volvo/autonomous-drive},
 }
 
 @Book{commission_iec_2017,
@@ -6343,7 +6348,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   pages     = {1--16},
 }
 
-@Misc{logitech_logitech_2019,
+@WWW{logitech_logitech_2019,
   author  = {Logitech},
   title   = {Logitech {G}920 \& {G}29 {Driving} {Force} {Steering} {Wheels} \& {Pedals}},
   year    = {2019},
@@ -6352,13 +6357,13 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Logitech G920 & G29 Driving Force Steering Wheels & Pedals/\:C//\:/Users/Psykie/Zotero/storage/3UUI894J/driving-force-racing-wheel.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{apollo_auto_collections_2019,
+@WWW{apollo_auto_collections_2019,
   author    = {{Apollo Auto}},
   title     = {Collections of {Apollo} {Platform} {Software}.},
   year      = {2019},
+  url       = {https://github.com/ApolloAuto/apollo-platform},
   note      = {original-date: 2017-06-30T18:53:11Z},
   month     = may,
-  url       = {https://github.com/ApolloAuto/apollo-platform},
   urldate   = {2019-06-02},
   publisher = {Apollo Auto},
 }
@@ -6464,35 +6469,35 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   shorttitle = {Autonomous {Vehicle} {Regulation}},
 }
 
-@Misc{cognata_cognata_nodate,
+@WWW{cognata_cognata_nodate,
   author   = {cognata},
   title    = {cognata},
   year     = {2019},
-  language = {en-US},
   url      = {https://www.cognata.com/},
+  language = {en-US},
   urldate  = {2019-06-02},
   abstract = {Comprehensive Autonomous Simulation Platform for the testing and qualification of autonomous vehicles and ADAS systems},
   file     = {html\:PDF:html\:Snapshot\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\JJNDUIYB\\\\\\\\www.cognata.com.html\\\:text/html\:PDF:PDF},
   journal  = {Cognata Autonomous and ADAS Simulation},
 }
 
-@Misc{rfpro_rfpro_nodate,
+@WWW{rfpro_rfpro_nodate,
   author   = {rFpro},
   title    = {{rFpro}},
   year     = {2019},
-  language = {en-GB},
   url      = {http://www.rfpro.com/},
+  language = {en-GB},
   urldate  = {2019-06-02},
   file     = {html\:PDF:html\:Snapshot\\\:C\\\\\\\:\\\\\\\\Users\\\\\\\\Psykie\\\\\\\\Zotero\\\\\\\\storage\\\\\\\\7F5AYWL2\\\\\\\\www.rfpro.com.html\\\:text/html\:PDF:PDF},
   journal  = {rFpro},
 }
 
-@Misc{nvidia_corporation_nvidia_nodate,
+@WWW{nvidia_corporation_nvidia_nodate,
   author   = {{NVIDIA Corporation}},
   title    = {{NVIDIA} {DRIVE} {Constellation}.},
   year     = {2019},
-  language = {en-au},
   url      = {https://www.nvidia.com/en-au/self-driving-cars/drive-constellation/},
+  language = {en-au},
   urldate  = {2019-06-02},
   abstract = {NVIDIA Drive Constellation uses photorealistic simulations to create a safer, more scalable way to bring self-driving cars to the road. Learn more.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/GGYAR83C/drive-constellation.html/\:text/html\:PDF:PDF},
@@ -6526,18 +6531,18 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
 	year = {2009}
 }
 
-@Misc{epic_games_unreal_nodate,
+@WWW{epic_games_unreal_nodate,
   author   = {{Epic Games}},
   title    = {Unreal {Engine}},
   year     = {2019},
-  language = {en-US},
   url      = {https://www.unrealengine.com/en-US/what-is-unreal-engine-4},
+  language = {en-US},
   urldate  = {2019-06-02},
   abstract = {Unreal Engine 4 is a suite of integrated tools for game developers to design and build games, simulations, and visualizations.},
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/ISYNBBNW/en-US.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{canonical_ltd._ubuntu_2019,
+@WWW{canonical_ltd._ubuntu_2019,
   author  = {{Canonical Ltd.}},
   title   = {Ubuntu {Manpage}: clockdiff - measure clock difference between hosts},
   year    = {2019},
@@ -6557,15 +6562,15 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
 	pages = {82--85}
 }
 
-@misc{sebastien_performance_2019,
-	title = {Performance monitoring tools for {Linux}.},
-	copyright = {GPL-2.0},
-	url = {https://github.com/sysstat/sysstat},
-	urldate = {2019-06-02},
-	author = {Sebastien, Godard},
-	month = jun,
-	year = {2019},
-	note = {original-date: 2013-04-25T11:23:10Z}
+@WWW{sebastien_performance_2019,
+  author    = {Sebastien, Godard},
+  title     = {Performance monitoring tools for {Linux}.},
+  year      = {2019},
+  url       = {https://github.com/sysstat/sysstat},
+  note      = {original-date: 2013-04-25T11:23:10Z},
+  month     = jun,
+  urldate   = {2019-06-02},
+  copyright = {GPL-2.0},
 }
 
 @Article{noauthor_ieee_2008,
@@ -6581,12 +6586,12 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   keywords = {1588-2008, boundary clock, clock, distributed control, distributed objects, distributed system, heterogeneous systems, IEEE standard, IEEE standards, local clock computing resources, master clock, measurement and control system, network communication, networked control systems, networked measurement, packet networks, precision clock synchronization protocol, protocols, real-time clock, synchronisation, synchronized clock, system-wide synchronization accuracy, transparent clock},
 }
 
-@Misc{bureau_of_meteorology_climate_2013,
+@WWW{bureau_of_meteorology_climate_2013,
   author  = {{Bureau of Meteorology}},
   title   = {Climate {Data} {Online}},
   year    = {2013},
-  month   = dec,
   url     = {http://www.bom.gov.au/climate/data/},
+  month   = dec,
   urldate = {2019-06-02},
   file    = {html\:PDF:html\:Climate Data Online/\:C//\:/Users/Psykie/Zotero/storage/I5AGTNTZ/data.html/\:text/html\:PDF:PDF},
 }
@@ -6606,19 +6611,19 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file     = {html\:PDF:html\:Snapshot/\:C//\:/Users/Psykie/Zotero/storage/84VFSX3Z/technology-44713298.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{autoware_open-source_2019,
+@WWW{autoware_open-source_2019,
   author    = {Autoware},
   title     = {Open-source software for self-driving vehicles.},
   year      = {2019},
+  url       = {https://github.com/autowarefoundation/autoware},
   note      = {original-date: 2015-08-24T23:17:57Z},
   month     = jun,
-  url       = {https://github.com/autowarefoundation/autoware},
   urldate   = {2019-06-02},
   copyright = {Apache-2.0},
   publisher = {The Autoware Foundation},
 }
 
-@Misc{ros_pointcloud_to_laserscan_nodate,
+@WWW{ros_pointcloud_to_laserscan_nodate,
   author  = {ROS},
   title   = {pointcloud\_to\_laserscan - {ROS} {Wiki}},
   year    = {2019},
@@ -6627,7 +6632,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:pointcloud_to_laserscan - ROS Wiki/\:C//\:/Users/Psykie/Zotero/storage/XRAHRCMA/pointcloud_to_laserscan.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{ros_lms1xx_nodate,
+@WWW{ros_lms1xx_nodate,
   author  = {ROS},
   title   = {{LMS}1xx - {ROS} {Wiki}},
   year    = {2019},
@@ -6636,7 +6641,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:LMS1xx - ROS Wiki/\:C//\:/Users/Psykie/Zotero/storage/Q3LY8LLW/LMS1xx.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{carla_cameras_nodate,
+@WWW{carla_cameras_nodate,
   author  = {Carla},
   title   = {Cameras and sensors - {CARLA} {Simulator}},
   year    = {2019},
@@ -6645,7 +6650,7 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   file    = {html\:PDF:html\:Cameras and sensors - CARLA Simulator/\:C//\:/Users/Psykie/Zotero/storage/QLUIDZIV/cameras_and_sensors.html/\:text/html\:PDF:PDF},
 }
 
-@Misc{ros_sensor_msgs/laserscan_nodate,
+@WWW{ros_sensor_msgs/laserscan_nodate,
   author  = {ROS},
   title   = {sensor\_msgs/{LaserScan} {Documentation}},
   year    = {2019},
@@ -7180,13 +7185,13 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   keywords = {Business models, Congestion, Data ownership, Governance, Intelligent mobility, Pricing and funding reform, Public transport futures, Smart cities},
 }
 
-@Misc{shuttleworth_sae_2019,
+@WWW{shuttleworth_sae_2019,
   author   = {Shuttleworth, Jennifer},
   title    = {{SAE} {J}3016 automated-driving graphic},
   year     = {2019},
+  url      = {https://www.sae.org/news/2019/01/sae-updates-j3016-automated-driving-graphic},
   language = {en},
   month    = jan,
-  url      = {https://www.sae.org/news/2019/01/sae-updates-j3016-automated-driving-graphic},
   urldate  = {2019-06-09},
   abstract = {SAE J3016 automated-driving graphic update},
   file     = {html:Snapshot\:C/\://Users//Psykie//Zotero//storage//7GLAR4SY//sae-updates-j3016-automated-driving-graphic.html\:text/html:PDF},
@@ -7209,13 +7214,13 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   school    = {SAE International},
 }
 
-@Misc{burns_anyone_2019,
+@WWW{burns_anyone_2019,
   author   = {Burns, Matt},
   title    = {‘{Anyone} relying on lidar is doomed,’ {Elon} {Musk} says},
   year     = {2019},
+  url      = {http://social.techcrunch.com/2019/04/22/anyone-relying-on-lidar-is-doomed-elon-musk-says/},
   language = {en-US},
   month    = apr,
-  url      = {http://social.techcrunch.com/2019/04/22/anyone-relying-on-lidar-is-doomed-elon-musk-says/},
   urldate  = {2019-06-09},
   abstract = {Today at Tesla’s first Autonomy Day event, Elon Musk took questions from the press but didn’t have time for questions about lidar. Historically, he’s been vocal about the technology, and this time he put it as clear as he could. “Lidar is a fool’s errand,” Elon Musk said. “A…},
   file     = {html:Snapshot\:C/\://Users//Psykie//Zotero//storage//DGEXDQHK//anyone-relying-on-lidar-is-doomed-elon-musk-says.html\:text/html:PDF},
@@ -7302,6 +7307,76 @@ Tweets by OpenMP\_ARB    Get all the latest API specifications, technical report
   url      = {https://www.lenovo.com/us/en/smart-devices/-lenovo-smartphones/phab-series/Lenovo-Phab-2-Pro/p/WMD00000220},
   abstract = {The Phab 2 Pro is the world's first smartphone to include Tango—a new technology from Google that enables augmented reality gaming and utilities.},
   keywords = {Tango, Project Tango, Lenovo Phab 2 Pro, Google Tango, Lenovo and Google, Tango Enabled Smartphone},
+}
+
+@Book{buehler_2005_2007,
+  title      = {The 2005 {DARPA} {Grand} {Challenge}: {The} {Great} {Robot} {Race}},
+  year       = {2007},
+  date       = {2007-09-06},
+  editor     = {Buehler, Martin and Iagnemma, Karl and Singh, Sanjiv},
+  language   = {English},
+  edition    = {2007 edition},
+  publisher  = {Springer},
+  isbn       = {978-3-540-73428-4},
+  pagetotal  = {568},
+  url        = {https://www.ebook.de/de/product/6700184/the_2005_darpa_grand_challenge.html},
+  abstract   = {The DARPA Grand Challenge was a landmark in the field of robotics: a race by autonomous vehicles through 132 miles of rough Nevada terrain. It showcased exciting and unprecedented capabilities in robotic perception, navigation, and control. The event took place in October 2005 and drew teams of competitors from academia and industry, as well as many garage hobbyists. This book presents fifteen technical papers that describe each team's driverless vehicle, race strategy, and insights. As a whole, they present the state of the art in autonomous vehicle technology and offer a glimpse of future technology for tomorrow’s driverless cars.},
+  address    = {Berlin ; New York},
+  ean        = {9783540734284},
+  month      = oct,
+  shorttitle = {The 2005 {DARPA} {Grand} {Challenge}},
+}
+
+@Article{hannan_review_2017,
+  author     = {Hannan, M. A. and Hoque, M. M. and Mohamed, A. and Ayob, A.},
+  title      = {Review of energy storage systems for electric vehicle applications: {Issues} and challenges},
+  journal    = {Renewable and Sustainable Energy Reviews},
+  year       = {2017},
+  volume     = {69},
+  month      = mar,
+  pages      = {771--789},
+  issn       = {1364-0321},
+  doi        = {10.1016/j.rser.2016.11.171},
+  url        = {http://www.sciencedirect.com/science/article/pii/S1364032116309182},
+  urldate    = {2019-06-11},
+  abstract   = {The electric vehicle (EV) technology addresses the issue of the reduction of carbon and greenhouse gas emissions. The concept of EVs focuses on the utilization of alternative energy resources. However, EV systems currently face challenges in energy storage systems (ESSs) with regard to their safety, size, cost, and overall management issues. In addition, hybridization of ESSs with advanced power electronic technologies has a significant influence on optimal power utilization to lead advanced EV technologies. This paper comprehensively reviews technologies of ESSs, its classifications, characteristics, constructions, electricity conversion, and evaluation processes with advantages and disadvantages for EV applications. Moreover, this paper discusses various classifications of ESS according to their energy formations, composition materials, and techniques on average power delivery over its capacity and overall efficiencies exhibited within their life expectancies. The rigorous review indicates that existing technologies for ESS can be used for EVs, but the optimum use of ESSs for efficient EV energy storage applications has not yet been achieved. This review highlights many factors, challenges, and problems for sustainable development of ESS technologies in next-generation EV applications. Thus, this review will widen the effort toward the development of economic and efficient ESSs with a longer lifetime for future EV uses.},
+  file       = {ScienceDirect Full Text PDF:C\:\\Users\\Kai\\Zotero\\storage\\SLA7L9RV\\Hannan et al. - 2017 - Review of energy storage systems for electric vehi.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\Kai\\Zotero\\storage\\ZGL9XLRJ\\S1364032116309182.html:text/html},
+  keywords   = {Electric vehicle, Energy storage systems, Hybridization, Power electronics},
+  shorttitle = {Review of energy storage systems for electric vehicle applications},
+}
+
+@Article{smit_where_2018,
+  author   = {Smit, Robin and Whitehead, Jake and Washington, Simon},
+  title    = {Where are we heading with electric vehicles?},
+  journal  = {Air Quality and Climate Change},
+  year     = {2018},
+  language = {EN},
+  volume   = {52},
+  number   = {3},
+  month    = sep,
+  pages    = {18},
+  url      = {https://search.informit.com.au/documentSummary;dn=978000152970203;res=IELNZC},
+  urldate  = {2019-06-11},
+  abstract = {This paper concludes that compared to conventional fossil-fuelled vehicle technologies, electric vehicles (EVs) are the best and most robust option with regard to moving to a zero emission road transport system. They enable significant to very deep (98\%) 'reductions' in greenhouse gas emissions, where large reductions depend on the extent that the Australian electricity generation will eventually use renewable energy. Fuel cell vehicles appear not to have the same benefits as battery electric vehicles. They perform only slightly better than conventional fossil-fuelled vehicles in terms of energy use per km. In contrast, EVs use approximately a factor of 3-5 times less energy. In fact, fuel cell vehicles are expected to produce a large 'increase' in greenhouse gas emission of about a factor of two, but have the potential to substantially reduce greenhouse gas emission of about 80\%, but have the potential to substantially reduce greenhouse gas emissions in the long term, but only on the strict condition that Australia significantly increases its use of renewable energy. {\textless}br /{\textgreater}{\textless}br /{\textgreater} EVs and fuel cell vehicles are both expected to significantly improve local air quality, particularly in urban areas where population and associated transport needs are concentrated. However, the extent to which renewable energy is used, is again an important factor in relation to level of improvement that will be achieved. The economic case for EVs is strong. The (hidden) economic costs of air pollution and associated public health impacts caused by fossil-fuelled vehicles will be substantially reduced. 'Total cost' parity (purchase plus operating) with conventional vehicles is expected to occur in the early to mid 2020s. {\textless}br /{\textgreater}{\textless}br /{\textgreater} In contrast to other regions in the world, Australia has a relatively sluggish track record in EV promotion and uptake, mainly due to a lack of supportive policies. New Zealand and some jurisdictions in Australia have taken a significantly more active stance regarding EVs. It is prudent that Australia does the same given the current transformation towards connected and autonomous vehicles (AVs) where electric vehicles are considered to be the 'natural partner' of AVs. EVs can help a transition to a more renewable energy system as relatively cheap energy storage devices. {\textless}br /{\textgreater}{\textless}br /{\textgreater} So where are we heading with electric vehicles? Although there are significant differences between countries and regions in the world, the available data suggest we are definitely heading away from fossil-fuelled road transport towards a fully transformed road transport system where electric vehicles will dominate, or at least play a key role. Electric vehicles are the obvious choice when considering environmental and economic benefits. Other fundamental shifts such as autonomous vehicles and renewable energy are mutually reinforcing developments. Co-development with a clean and climate-friendly electricity generation system will enable deep cuts in greenhouse and air pollution emissions.},
+  file     = {Snapshot:C\:\\Users\\Kai\\Zotero\\storage\\BSFH8QQD\\documentSummary\;dn=978000152970203\;res=IELNZC.html:text/html},
+}
+
+@TechReport{market_research_future_connected_2019,
+  author      = {{Market Research Future}},
+  title       = {Connected {Mobility} {Solutions} {Market} {Research} {Report} – {Forecast} to 2023},
+  institution = {Market Research Future},
+  year        = {2019},
+  date        = {2019-05},
+  type        = {Market {Research}},
+  language    = {en},
+  number      = {MRFR/ICT/0369-HCRR},
+  month       = may,
+  pages       = {145},
+  url         = {https://www.marketresearchfuture.com/reports/connected-mobility-solutions-market-871},
+  urldate     = {2019-09-21},
+  abstract    = {Connected Mobility Solutions Market expected to reach 19\% CAGR forecast period 2018-2023, Connected Mobility Solutions Market Categorizes the Global Market by Technology, Applications, Connectivity {\textbar} Connected Mobility Solutions Industry},
+  address     = {Maharashtra},
+  file        = {Snapshot:C\:\\Users\\Psykie\\Zotero\\storage\\4J8UDFUH\\connected-mobility-solutions-market-871.html:text/html},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
